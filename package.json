@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/arindamroy868/Travel-Log#readme",
   "dependencies": {
+    "body-parser": "^1.19.2",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    "mongoose": "^6.2.4"
+    "joi": "^17.6.0",
+    "mongoose": "^6.2.4",
+    "path": "^0.12.7"
   }
 }
